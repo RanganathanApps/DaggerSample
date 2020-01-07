@@ -4,7 +4,7 @@
             "outputFile": "D:\\Ranganathan\\work\\StartUp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lv\\values-lv.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-2\\files-2.1\\e7ec6ad191b5e0f1b051a84e3e109a74\\play-services-base-17.0.0\\res\\values-lv\\values.xml",
+                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-2\\files-2.1\\7506260c200cf5bd619ad3802f686816\\play-services-base-17.0.0\\res\\values-lv\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-2\\files-2.1\\98aaa4efd86c859219addd9f5cc3efdd\\jetified-play-services-basement-17.0.0\\res\\values-lv\\values.xml",
+                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-2\\files-2.1\\7a5a99400b949d1b11e3059297eea8eb\\jetified-play-services-basement-17.0.0\\res\\values-lv\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-2\\files-2.1\\d902d53b66219e3ba776d031981a2533\\core-1.1.0\\res\\values-lv\\values-lv.xml",
+                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-2\\files-2.1\\5110c8fce249b5eafb02f80e63152122\\core-1.1.0\\res\\values-lv\\values-lv.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-2\\files-2.1\\284a795a18cdb2cc9f2bf1ff2f319a11\\appcompat-1.1.0\\res\\values-lv\\values-lv.xml",
+                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-2\\files-2.1\\44ce43a8b2e0a4bac122f6244d93c723\\appcompat-1.1.0\\res\\values-lv\\values-lv.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

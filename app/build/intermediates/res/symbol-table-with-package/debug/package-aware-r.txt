@@ -1843,6 +1843,7 @@ id bottom
 id bottomSheet
 id btnNo
 id btnYes
+id button
 id buttonPanel
 id calligraphy_tag_id
 id center
@@ -2004,6 +2005,7 @@ id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
+id textView
 id text_input_password_toggle
 id textinput_counter
 id textinput_error
